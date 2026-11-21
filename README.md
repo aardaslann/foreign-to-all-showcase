@@ -8,7 +8,9 @@ Created by Arda Aslan in Godot.
 
 ## Promotional trailer
 
-https://github.com/user-attachments/assets/37fc3dcd-3e93-4f69-92c5-4e01a81b3b0d
+https://github.com/user-attachments/assets/6257d7d6-3c30-4195-bb51-2e3dc319421c
+
+[Download the original 1080p MP4](https://github.com/aardaslann/foreign-to-all-showcase/releases/download/trailer-v7/foreign-to-all-understanding-v7.mp4)
 
 ## How it plays
 
